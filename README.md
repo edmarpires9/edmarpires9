@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Meu nome é Edmar Pires</h1>
-<h3 align="center">Atualmente estudando em Sistemas de informação(2/8)</h3>
+<h3 align="center">Atualmente estudando Sistemas de informação(2/8)</h3>
 
 - 🔭 Em busca de novas oportunidades Back-End ou Front-End entre outras busco minha primeira experiência profissional na área de TI.
 
