@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Edmar Pires</h1>
-<h3 align="center">A passionate back end developer from Brazil.</h3>
+<h1 align="center">Olá 👋, Meu nome é Edmar Pires</h1>
+<h3 align="center">Atualmente graduando em Sistemas de informação</h3>
 
-- 🔭 I’m currently working on **Learn Java**
+- 🔭 Em busca de novas oportunidades Back-End ou Front-End entre outras busco minha primeira experiência profissional na área de TI.
 
-- 🌱 I’m currently learning **Java | Programiz && Udemy**
+- 🌱 Minha formação principal é Sistemas de Informação (1/8) paralelo com Flutter Udemy e Java Programiz.
 
-- 👯 I’m looking to collaborate on **Create programs soon**
+- 👯 Para acelerar meu aprendizado tenho enorme interesse em trabalhar com TI.
 
-- 💬 Ask me about **Anything**
+- 💬 +(55) 32 9-8835 1572 Whatsapp
 
-- 📄 Know about my experiences [Gosto de aprender e atualmente sou Técnico de Operação do Sistema Elétrico I](Gosto de aprender e atualmente sou Técnico de Operação do Sistema Elétrico I)
+- 📄 Emprego atual: Energisa - Técnico de Operação do Sistema Elétrico I
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
