@@ -1,18 +1,18 @@
 <h1 align="center">Olá 👋, Meu nome é Edmar Pires</h1>
 <h3 align="center">Atualmente estudando Sistemas de informação(2/8)</h3>
 
-- 🌌 Em busca de novas oportunidades Back-End ou Front-End entre outras busco minha primeira experiência profissional na área de TI.
+- 🌌 Em busca de novas oportunidades Back-End ou Front-End ou em outras funções em resumo buscando minha primeira experiência profissional na área de TI.
 
 - 🌱 Minha formação principal é Sistemas de Informação (2/8)
-   Acompanhado de:
--  ☕ Java - Programiz 
--  📱 Flutter - Udemy
+-  ☕ Java Master - Programiz [Em andamento.. 5/10]
+-  📱 Flutter - Udemy [Em andamento.. 1/10]
+-  ⚡ Eletrôténica - SENAI [Concluído]
+- 💖 Para acelerar meu aprendizado tenho enorme interesse em trabalhar com TI.
 
-- 👯 Para acelerar meu aprendizado tenho enorme interesse em trabalhar com TI.
+- 💬 +(55) 32 9-8835 1572 sinta-se a vontade para fazer perguntas.
 
-- 💬 +(55) 32 9-8835 1572 Whatsapp
-
-- 📄 Emprego atual: Energisa - Técnico de Operação do Sistema Elétrico I
+- 📈 Emprego atual: Energisa - Técnico de Operação do Sistema Elétrico I
+- ⏰ Tempo experiência no emprego atual: 2 anos
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
