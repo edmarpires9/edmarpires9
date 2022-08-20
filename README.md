@@ -3,7 +3,10 @@
 
 - 🔭 Em busca de novas oportunidades Back-End ou Front-End entre outras busco minha primeira experiência profissional na área de TI.
 
-- 🌱 Minha formação principal é Sistemas de Informação (2/8) paralelo com Flutter Udemy e Java Programiz.
+- 🌱 Minha formação principal é Sistemas de Informação (2/8)
+   Acompanhado de:
+   ☕ Java - Programiz 
+   📱  Flutter - Udemy
 
 - 👯 Para acelerar meu aprendizado tenho enorme interesse em trabalhar com TI.
 
