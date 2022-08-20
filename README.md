@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, Meu nome é Edmar Pires</h1>
 <h3 align="center">Atualmente estudando Sistemas de informação(2/8)</h3>
 
-- 🔭 Em busca de novas oportunidades Back-End ou Front-End entre outras busco minha primeira experiência profissional na área de TI.
+- 🌌 Em busca de novas oportunidades Back-End ou Front-End entre outras busco minha primeira experiência profissional na área de TI.
 
 - 🌱 Minha formação principal é Sistemas de Informação (2/8)
    Acompanhado de:
-   ☕ Java - Programiz 
-   📱  Flutter - Udemy
+-  ☕ Java - Programiz 
+-  📱 Flutter - Udemy
 
 - 👯 Para acelerar meu aprendizado tenho enorme interesse em trabalhar com TI.
 
