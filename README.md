@@ -4,7 +4,7 @@
 - 🌌 Em busca de novas oportunidades Back-End ou Front-End ou em outras funções em resumo buscando minha primeira experiência profissional na área de TI.
 
 - 🌱 Minha formação principal é Sistemas de Informação (2/8)
--  ☕ Java Master - Programiz [Em andamento.. 5/10]
+-  ☕ Java Básico - Programiz
 -  📱 Flutter - Udemy [Em andamento.. 1/10]
 -  ⚡ Eletrôténica - SENAI [Concluído]
 - 💖 Para acelerar meu aprendizado tenho enorme interesse em trabalhar com TI.
