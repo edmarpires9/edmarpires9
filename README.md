@@ -12,7 +12,7 @@
 - 💬 +(55) 32 9-8835 1572 sinta-se a vontade para fazer perguntas.
 
 - 📈 Emprego atual: Energisa - Técnico de Operação do Sistema Elétrico I
-- ⏰ Tempo experiência 2 anos no atual emprego.
+- ⏰ Tempo experiência 3 anos no atual emprego.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
