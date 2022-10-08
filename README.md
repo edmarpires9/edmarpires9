@@ -5,7 +5,7 @@
 
 - 🌱 Minha formação principal é Sistemas de Informação (2/8)
 -  ☕ Java Básico - Programiz
--  📱 Flutter - Udemy [Em andamento.. 1/10]
+-  📱 Dotnet bootcamp - Dio._
 -  ⚡ Eletrôténica - SENAI [Concluído]
 - 💖 Para acelerar meu aprendizado tenho enorme interesse em trabalhar com TI.
 
