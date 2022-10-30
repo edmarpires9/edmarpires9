@@ -1,22 +1,20 @@
-<h1 align="center">Olá 👋, Meu nome é Edmar Pires</h1>
-<h3 align="center">Atualmente estudando Sistemas de informação(2/8)</h3>
+<h1 align="left">Edmar Chagas Pires</h1>
+<h5 align="left">Olá meu nome é Edmar Chagas Pires atualmente estou realizando minha graduação em Engenharia de software(2/8) gosto muito de programação! comecei a caminhar em direção a esse universo quando tinha 12 anos e tinha acabado de ganhar meu primeiro computador onde comecei a jogar Point Blank e como é de conhecimento de muitos jogadores de FPS(First Person Shooter) amam FPS(Frame Per Seconds) mas como nem tudo na vida são flores devido o meu computador da época ser muito fraco comecei a pesquisar diariamente sobre curiosidades e funcionamento do hardware e software no geral para conseguir jogar e até hoje continuo nessa eterna caminhada de aprendizado.</h5>
 
-- 🌌 Em busca de novas oportunidades Back-End ou Front-End ou em outras funções em resumo buscando minha primeira experiência profissional na área de TI.
+<h3 align="left">- Curiosidades sobre mim <img src = "https://icongr.am/material/account-heart-outline.svg?size=128&color=currentColor" width="30" height="30" align="center"></h3>
 
-- 🌱 Minha formação principal é Sistemas de Informação (2/8)
--  ☕ Java Básico - Programiz
--  📱 Dotnet bootcamp - Dio._
--  ⚡ Eletrôténica - SENAI [Concluído]
-- 💖 Para acelerar meu aprendizado tenho enorme interesse em trabalhar com TI.
 
-- 💬 +(55) 32 9-8835 1572 sinta-se a vontade para fazer perguntas.
+<p> <img src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" width="35" height="35" align="left">
+Windows 10 - Meu SO favorito devido praticidade e compatibilidade.<br /></p>
 
-- 📈 Emprego atual: Energisa - Técnico de Operação do Sistema Elétrico I
-- ⏰ Tempo experiência 3 anos no atual emprego.
+<p> <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="35" height="35" align="left">
+Visual Studio - Minha IDE favorita atualmente.<br /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p> <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="35" height="35" align="left">
+C Sharp - Tem sido meu foco atual devido as empresas da minha cidade utilizarem muito.<br /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p> <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor" width="35" height="35" align="left">
+GitHub - Queridinho dos DEVs que dispensa explicações.<br /></p>
+
+<h3 align="left">Meus projetos:</h3>
+<p align="left"> <a href="LINK EM BRANCO" rel="noreferrer"> <img src="https://icongr.am/material/cash-usd-outline.svg?size=128&color=3bf169" alt="c" width="40" height="40"/> 
