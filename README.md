@@ -5,7 +5,7 @@
 
 
 <h4 align="left">.. - SO - Windows10 .. <img src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" width="15" height="15" align="center"> </h4>
-<h4 align="left">.. - IDE - Visual Studio.. <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="15" height="15" align="center"></h4>
+<h4 align="left">.. - IDE - Visual Studio .. <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="15" height="15" align="center"></h4>
 <h4 align="left">.. - Linguagem - C Sharp .. <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="15" height="15" align="center"></h4>
 <h4 align="left">.. - Projetos! - GitHub .. <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor" width="15" height="15" align="center"></h4>
 
