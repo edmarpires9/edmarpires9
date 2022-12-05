@@ -4,9 +4,42 @@
 <h3 align="left"><img src = "https://icongr.am/material/account-heart-outline.svg?size=128&color=currentColor" width="30" height="30" align="center">  .. - Curiosidades sobre mim 🚀🔥 - .. </h3>
 
 
-<h4 align="left">.. - SO - Windows10 .. <img src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" width="15" height="15" align="center"> </h4>
-<h4 align="left">.. - IDE - Visual Studio .. <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="15" height="15" align="center"></h4>
-<h4 align="left">.. - Linguagem - C Sharp .. <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="15" height="15" align="center"></h4>
+<table>
+  <tr>
+    <th>Ícone</th>
+    <th>Nome</th>
+    <th>Experiência</th>
+    <th>Descrição</th>
 
+  </tr>
+  
+  <tr>
+    <th><image src = https://raw.githubusercontent.com/edmarpires9/edmarpires9/main/Imagens/icon_powerbuilder2022.png width = 40></th>
+    <th>PowerBuilder 2022</th>
+    <th>INICIANTE</th>
+    <th>Cursando PB no SENAI projeto financiado pela Energisa.</th>
+  </tr>
+  
+  <tr>
+    <th><image src = https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor width = 40></th>
+    <th>C#</th>
+    <th>INICIANTE</th>
+    <th>Bootcamp C# na DIO._"</th>
+  </tr>
+  
+  <tr>
+    <th><image src = https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor width = 30></th>
+    <th>Visual Studio</th>
+    <th>INICIANTE</th>
+    <th>Comecei usar em Abril 2023</th>
+  </tr>
+  
+  <tr>
+    <th><image src = https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor width = 30></th>
+    <th>Windows 10</th>
+    <th>VETERANO</th>
+     <th>Utilizo Windows há +11 de anos!</th>
+  </tr>
+</table>
 <h3 align="left">.. - Projetos! - GitHub .. </h3>
 <p align="left"> <a href="https://github.com/edmarpires9/ControleDeEstoque" rel="noreferrer"> <img src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/main/Imagens/ControleDeEstoqueVisualAlg.png" alt="c"/> 
