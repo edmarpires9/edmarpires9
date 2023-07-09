@@ -1,6 +1,7 @@
 <!--Quem diria que comentários HTML5 funcionam em arquivo Markdown? não é?-->
 <!--Meu nome - Cabecalho-->
-<h4 align="center">Edmar Chagas Pires</h6>
+<h4 align="center">Edmar Chagas Pires</h4>
+<h6 align="center">Biografia projetada para ser visualizada em modo paisagem ou landscape 16:9 com tema escuro. Limitação do GitHub. Como a biografia é feita em Markdown não há suporte a vários tamanhos de tela ou responsividade.</h6>
 <!--Enfeite do lado direito-->
 <img align="right" src="https://raw.githubusercontent.com/fluorspar20/fluorspar20/master/images/img.svg" width="330" style="max-width: 100%;">
 
@@ -26,13 +27,8 @@
 <!--Básicamente um border-top: 4px solid gradient-->
 <section align="center">
   <img align="center" height="2px" width="45%" src="https://wallpapers.com/images/featured/blank-h9v8oske8iey8nkq.jpg">
-</section>
-
-
-
-<!--Básicamente um border-top: 4px solid gradient-->
-<section align="center">
-  <img align="center" height="2px" width="100%" src="https://wallpapers.com/images/featured/blank-h9v8oske8iey8nkq.jpg">
+  <img align="center" height="2px" width="90%" src="https://wallpapers.com/images/featured/blank-h9v8oske8iey8nkq.jpg">
+    <p align="center">Entre em contato comigo, estou disponível nas redes:</p>
 </section>
 
 <!--Entre em contato comigo, vou ficar feliz! - Sessão-->
@@ -53,3 +49,4 @@
 <!--Meus projetos os quais invisto meu tempo livre em desenvolver os mesmos, pois parte do meu dia é meu trabalho de eletricista no qual não tenho contato com programação e parte do meu dia é a faculdade, ainda sim dedico a pequena parte do dia que sobra a desenvolver ideias para trazer a vocês o meu portfólio e meu "nivel atual"-->
 
 <h3 align="left">.. - Projetos! - GitHub .. </h3>
+<a href="https://github.com/edmarpires9/meu-dia/"><img src="https://github.com/edmarpires9/meu-dia/blob/main/data/png/card.png?raw=true"></a>
