@@ -3,7 +3,7 @@
 <h4 align="center">Edmar Chagas Pires</h4>
 <h6 align="center">Biografia projetada para ser visualizada em modo paisagem ou landscape 16:9 com tema escuro. Limitação do GitHub. Como a biografia é feita em Markdown não há suporte a vários tamanhos de tela ou responsividade.</h6>
 <!--Enfeite do lado direito-->
-<img align="right" src="https://raw.githubusercontent.com/fluorspar20/fluorspar20/master/images/img.svg" width="330" style="max-width: 100%;">
+<img align="right" src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/08ac4f106fb7a1af1860da86eb29ef47129147e5/Imagens/background.svg" width="330" style="max-width: 100%;">
 
 <!--Biografia - Lista não ordenada-->
 <ul>
@@ -14,12 +14,12 @@
 
 <!--Linguagens que estou tentando aprender e me aperfeiçoar-->
 <section align="right">
-  <img height="20px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png">
-  <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
-  <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
-  <img height="20px" src="https://www.freepnglogos.com/uploads/javascript-png/transparent-logo-javascript-7.png">
-  <img height="20px" src="https://github.com/edmarpires9/edmarpires9/blob/main/Imagens/icon_powerbuilder2022.png?raw=true">
-  <img height="20px" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">
+  <img height="20px" src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/main/Imagens/sql.png">
+  <img height="20px" src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/main/Imagens/css.png">
+  <img height="20px" src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/main/Imagens/html.png">
+  <img height="20px" src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/main/Imagens/javascript.png">
+  <img height="20px" src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/main/Imagens/csharp.png">
+  <img height="20px" src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/main/Imagens/powerbuilder.png">
 </section>
 <!--API que contabiliza quais linguagens eu utilizo e exibe em um painel bonitinho-->
 
@@ -48,5 +48,5 @@
 
 <!--Meus projetos os quais invisto meu tempo livre em desenvolver os mesmos, pois parte do meu dia é meu trabalho de eletricista no qual não tenho contato com programação e parte do meu dia é a faculdade, ainda sim dedico a pequena parte do dia que sobra a desenvolver ideias para trazer a vocês o meu portfólio e meu "nivel atual"-->
 
-<h3 align="left">.. - Projetos! - GitHub .. </h3>
-<a href="https://github.com/edmarpires9/meu-dia/"><img src="https://github.com/edmarpires9/meu-dia/blob/main/data/png/card.png?raw=true"></a>
+<h3 align="left">.. - Projetos! - .. </h3>
+<a href="https://edmarpires9.github.io/calculadora/"><img src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/main/Imagens/calculadora.jpg"></a>
