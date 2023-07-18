@@ -48,5 +48,5 @@
 
 <!--Meus projetos os quais invisto meu tempo livre em desenvolver os mesmos, pois parte do meu dia é meu trabalho de eletricista no qual não tenho contato com programação e parte do meu dia é a faculdade, ainda sim dedico a pequena parte do dia que sobra a desenvolver ideias para trazer a vocês o meu portfólio e meu "nivel atual"-->
 
-<h3 align="left">.. - Projetos! - .. </h3>
+<h3 align="left">.. - Meus projetos! - .. </h3>
 <a href="https://edmarpires9.github.io/calculadora/"><img src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/main/Imagens/calculadora.jpg"></a>
