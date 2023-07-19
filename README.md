@@ -50,3 +50,7 @@
 
 <h3 align="left">.. - Meus projetos! - .. </h3>
 <a href="https://edmarpires9.github.io/calculadora/"><img src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/main/Imagens/calculadora.jpg"></a>
+
+
+<a href="https://github.com/edmarpires9?tab=repositories"><img src="https://github.com/edmarpires9/edmarpires9/blob/main/Imagens/whatsapp_bot.PNG?raw=true"></a>
+
