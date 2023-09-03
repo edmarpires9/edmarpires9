@@ -7,7 +7,8 @@
 
 <!--Biografia - Lista não ordenada-->
 <ul>
-<li>☄️ Eu sou um estudante de Engenharia de Software. 3° Período.</li>
+<li>☄️ Eu sou um estudante de Engenharia de Software. 4° Período.</li>
+<li>🌙 Formado na Terceira turma do EnergisaTech.</li>
 <li>🌌 Estou atualmente trabalhando no <a href="https://www.energisa.com.br/">Grupo Energisa</a>.</li>
 <li>🪐 No dia a dia de trabalho não tenho contato com programação. Isso atrasa um pouco o meu ganho de desenvoltura com TI.</li>
 <li>🔭 No meu tempo livre tenho desenvolvido apps com carinho, confira meus projetos clicando <a href="https://github.com/edmarpires9?tab=repositories">aqui</a>.</li>
@@ -24,6 +25,7 @@
 <!--API que contabiliza quais linguagens eu utilizo e exibe em um painel bonitinho-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpires9&layout=compact&theme=tokyonight&card_width=1000&custom_title=O-mago-é-implacável🎼🧙‍♂️)
+[![My Skills](https://skillicons.dev/icons?i=git,dotnet,cs,js,html,css)](https://skillicons.dev)
 <!--Básicamente um border-top: 4px solid gradient-->
 <section align="center">
   <img align="center" height="2px" width="45%" src="https://wallpapers.com/images/featured/blank-h9v8oske8iey8nkq.jpg">
@@ -45,9 +47,3 @@
 <img src="https://camo.githubusercontent.com/eff3e7484b1754de8279027247ccec9c3deaeb76b4c4946c5d634a8579c2c1ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp" height="34px" target="_blank">
 </a>
 </section>
-
-<!--Meus projetos os quais invisto meu tempo livre em desenvolver os mesmos, pois parte do meu dia é meu trabalho de eletricista no qual não tenho contato com programação e parte do meu dia é a faculdade, ainda sim dedico a pequena parte do dia que sobra a desenvolver ideias para trazer a vocês o meu portfólio e meu "nivel atual"-->
-
-<h3 align="left">.. - Meus projetos! - .. </h3>
-<a href="https://github.com/edmarpires9?tab=repositories"><img src="https://github.com/edmarpires9/edmarpires9/blob/main/Imagens/whatsapp_bot.PNG?raw=true"></a>
-
