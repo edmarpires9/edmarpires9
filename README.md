@@ -9,9 +9,14 @@
 <li>🪐 No dia a dia de trabalho não tenho contato com programação. Isso atrasa um pouco o meu ganho de desenvoltura com TI.</li>
 <li>🔭 No meu tempo livre tenho desenvolvido apps com carinho, confira meus projetos clicando <a href="https://github.com/edmarpires9?tab=repositories">aqui</a>.</li>
 <!--Estudando essas linguagens:-->
-<h4><li><em>Residem em meu coração, sem pagar aluguel.</em></li></h4>
+<h4><li><em>O que eu estudo diariamente.</em></li></h4>
 
-[![My Skills](https://skillicons.dev/icons?i=github,dotnet,cs,php)](https://www.linkedin.com/in/edmar-chagas-96b380246/)
-<a href="https://web.whatsapp.com/send/?phone=32988351572" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/whatsapp-icon-2040x2048-8b5th74o.png" height="48px"></a>
+[![My Skills](https://skillicons.dev/icons?i=github,nodejs,react,php)](https://www.linkedin.com/in/edmar-chagas-96b380246/)
+<h4><li><em>Contato.</em></li></h4>
+<a href="https://www.linkedin.com/in/edmar-chagas-96b380246/" rel="nofollow"><img src="https://www.shareicon.net/download/2015/08/13/84767_linkedin.ico" height="20px" align="center"><strong> Linkedin</strong></a>
+<a href="https://web.whatsapp.com/send/?phone=32988351572" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/whatsapp-icon-2040x2048-8b5th74o.png" height="20px" align="center"><strong> Whatsapp</strong></a>
+<h4><li><em>Experiência profissional.</em></li></h4>
+<ul></p><img src="https://media.licdn.com/dms/image/C4D0BAQEk6-EWKeqDTQ/company-logo_100_100/0/1630533776321/energisa_logo?e=1710374400&v=beta&t=kn8bm6erJ5oRXr5MwFJ6mYPBBSrlOtgTjgRFma5aMuA" height="20px" align="center"><strong> Energisa Minas Rio</strong></ul>
+<ul></p><img src="https://cdn.iconscout.com/icon/free/png-256/free-honda-6-202784.png" height="20px" align="center"><strong> Motobella LTDA</strong></ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpires9&layout=compact&theme=tokyonight&card&custom_title=✘Histórico%20de%20magia🧙‍♂️☄)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpires9&layout=compact&theme=tokyonight&card&custom_title=✘No%20meu%20GitHub%20você%20vai%20encontrar:🧙‍♂️☄)
