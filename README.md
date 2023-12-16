@@ -23,4 +23,10 @@
 <ul></p><img src="https://cdn.iconscout.com/icon/free/png-256/free-honda-6-202784.png" height="20px" align="center"><strong> Motobella LTDA</strong></ul>
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpires9&layout=compact&theme=tokyonight&card&custom_title=✘No%20meu%20GitHub%20você%20vai%20encontrar:🧙‍♂️☄)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpires9&layout=compact&card_width=500px&theme=github_dark_dimmed&card&custom_title=✘No%20meu%20GitHub%20você%20vai%20encontrar:🧙‍♂️🎇)
+<h4><li><em>Projetos em ambiente de produção:</em></li></h4>
+<a href="https://github.com/edmarpires9/Energisa-TMA" rel="nofollow"><img title="Essa linguagem é o powerbuilder meu nobre!" src="https://www.appeon.com/sites/default/files/2022-07/home/PowerBuilder.svg" height="32px" align="center"><strong> Energisa tempo médio de atendimento</strong></a>
+<h4><li><em>Projetos em andamento:</em></li></h4>
+<a href="https://github.com/edmarpires9/CriptoBank" rel="nofollow"><img title="Essa linguagem é o NodeJS meu campeão! // dimensa me contrata please!" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="32px" align="center"><strong> CriptoBank</strong></a>
+
+<a href="https://github.com/edmarpires9/GestorDeLoja" rel="nofollow"><img title="Essa linguagem é o csharp minha joia rara!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" height="32px" align="center"><strong> Gestor de Loja</strong></a>
