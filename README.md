@@ -1,5 +1,7 @@
 <!--Nome completo:-->
-<h4 align="center">Edmar Chagas Pires</h4>
+<h3 align="center">Edmar Chagas Pires</h3>
+<h4 align="center"><a href="https://web.whatsapp.com/send/?phone=32988351572" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/whatsapp-icon-2040x2048-8b5th74o.png" height="20px" align="center"><strong>(32) 9-8835 1572</strong></a></h4>
+
 <!--Imagem decorativa:-->
 <img align="right" src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/08ac4f106fb7a1af1860da86eb29ef47129147e5/Imagens/background.svg" style="width: 40%;">
 <!--Biografia-->
@@ -13,20 +15,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://www.linkedin.com/in/edmar-chagas-96b380246/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpires9&hide_progress=true&layout=compact&card_width=100%&theme=transparent&card&custom_title=edmarpires9🧙‍♂️🎇)
 
-##
-<h4><li><em>Contato.</em></li></h4>
-<a href="https://www.linkedin.com/in/edmar-chagas-96b380246/" rel="nofollow"><img src="https://www.shareicon.net/download/2015/08/13/84767_linkedin.ico" height="20px" align="center"><strong> Linkedin</strong></a>
-<a href="https://web.whatsapp.com/send/?phone=32988351572" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/whatsapp-icon-2040x2048-8b5th74o.png" height="20px" align="center"><strong> Whatsapp</strong></a>
+| SDK | NOME | IPHONE| ANDROID | WINDOWS | LINUX |
+|----------|----------|----------|----------|----------|----------|
+|<img title="Cross-plataform Iphone, Android, Windows e Linux" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png" height="32px" align="center">| <a href="https://github.com/edmarpires9/GestorDeLoja" rel="nofollow"><em>Loja Digital</em></a>   | ✅  | ✅   | ✅   | ✅   |
+| <img title="Plataforma Windows 7/8/8.1/10/11" src="https://www.appeon.com/sites/default/files/2022-07/home/PowerBuilder.svg" height="32px" align="center">   | <a href="https://github.com/edmarpires9/Energisa-TMA" rel="nofollow"><em>Energisa Tempo Médio</em></a>  | ❌   | ❌  | ✅  | ❌ |
 
 ##
 <h4><li><em>Experiência profissional.</em></li></h4>
 <ul></p><img src="https://media.licdn.com/dms/image/C4D0BAQEk6-EWKeqDTQ/company-logo_100_100/0/1630533776321/energisa_logo?e=1710374400&v=beta&t=kn8bm6erJ5oRXr5MwFJ6mYPBBSrlOtgTjgRFma5aMuA" height="20px" align="center"><strong> Energisa Minas Rio</strong></ul>
 <ul></p><img src="https://cdn.iconscout.com/icon/free/png-256/free-honda-6-202784.png" height="20px" align="center"><strong> Motobella LTDA</strong></ul>
-
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpires9&layout=compact&card_width=500px&theme=github_dark_dimmed&card&custom_title=✘No%20meu%20GitHub%20você%20vai%20encontrar:🧙‍♂️🎇)
-<h4><li><em>Entregas finalizadas</em></li></h4>
-<a href="https://github.com/edmarpires9/Energisa-TMA" rel="nofollow"><img title="Plataforma Windows 7/8/8.1/10/11" src="https://www.appeon.com/sites/default/files/2022-07/home/PowerBuilder.svg" height="32px" align="center"><strong> Energisa tempo médio de atendimento</strong></a>
-<h4><li><em>Projeto atual</em></li></h4>
-<a href="https://github.com/edmarpires9/GestorDeLoja" rel="nofollow"><img title="Cross-plataform Iphone, Android, Windows e Linux" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png" height="32px" align="center"><strong>Loja digital</strong></a>
