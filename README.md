@@ -19,7 +19,7 @@
 
 | SDK | NOME | IPHONE| ANDROID | WINDOWS | LINUX |
 |----------|----------|----------|----------|----------|----------|
-|<img title="Cross-plataform Iphone, Android, Windows e Linux" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png" height="32px" align="center">| <a href="https://github.com/edmarpires9/GestorDeLoja" rel="nofollow"><em>Loja Digital</em></a>   | ✅  | ✅   | ✅   | ✅   |
+|<img title="Cross-plataform Iphone, Android, Windows e Linux" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png" height="32px" align="center">| <a href="https://github.com/edmarpires9/LojaDigital" rel="nofollow"><em>Loja Digital</em></a>   | ✅  | ✅   | ✅   | ✅   |
 | <img title="Plataforma Windows 7/8/8.1/10/11" src="https://www.appeon.com/sites/default/files/2022-07/home/PowerBuilder.svg" height="32px" align="center">   | <a href="https://github.com/edmarpires9/Energisa-TMA" rel="nofollow"><em>Energisa Tempo Médio</em></a>  | ❌   | ❌  | ✅  | ❌ |
 
 ##
