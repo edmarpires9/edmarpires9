@@ -17,10 +17,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpires9&hide_progress=true&layout=compact&card_width=100%&theme=transparent&card&custom_title=edmarpires9🧙‍♂️🎇)
 
-| SDK | Ícone | NOME | IPHONE| ANDROID | WINDOWS | LINUX |
-|----------|----------|----------|----------|----------|----------|----------|
-|<img title="ReactJS, NodeJS, HTML5, CSS" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png" height="48px" align="center">| null | <a href="https://github.com/edmarpires9/LojaDigital" rel="nofollow"><em>Loja Digital</em></a>   | ✅  | ✅   | ✅   | ✅   |
-| <img title="Powerbuilder" src="https://www.appeon.com/sites/default/files/2022-07/home/PowerBuilder.svg" height="48px" align="center"> | <img src="https://raw.githubusercontent.com/edmarpires9/Energisa-TMA/main/data/icon/icon_default.png" height="48px" align="center"> | <a href="https://github.com/edmarpires9/Energisa-TMA" rel="nofollow"><em>Energisa Tempo Médio</em></a>  | ❌   | ❌  | ✅  | ❌ |
+| <em>SDK</em> | <em>Ícone</em> | <em>Nome</em> | <em>Problema solucionado ✅</em> |
+|----------|----------|----------|----------|
+|<img title="ReactJS, NodeJS, HTML5, CSS" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png" height="48px" align="center">| null | <a href="https://github.com/edmarpires9/LojaDigital" rel="nofollow"><em>Loja Digital</em></a>   | Este projeto ainda está em construção, paciência  |
+| <img title="Powerbuilder" src="https://www.appeon.com/sites/default/files/2022-07/home/PowerBuilder.svg" height="48px" align="center"> | <img src="https://raw.githubusercontent.com/edmarpires9/Energisa-TMA/main/data/icon/icon_default.png" height="48px" align="center"> | <a href="https://github.com/edmarpires9/Energisa-TMA" rel="nofollow"><em>Energisa Tempo Médio</em></a>  | Manter a coodernação da Energisa Minas Rio ciente de quais atendimentos estão demorando e quando finalizado o atendimento avisar sobre sua conclusão e qual foi o motivo da demora. O processo é feito automaticamente, e as analises enviadas via WhatsApp conforme as fotos na página oficial do projeto. |
 
 ##
 <h4><li><em>Experiência profissional.</em></li></h4>
