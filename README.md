@@ -17,12 +17,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpires9&hide_progress=true&layout=compact&card_width=100%&theme=transparent&card&custom_title=edmarpires9🧙‍♂️🎇)
 
-| <em>SDK</em> | <em>Ícone</em> | <em>Nome</em> | <em>Problema solucionado ✅</em> |
-|----------|----------|----------|----------|
-|<img title="ReactJS, NodeJS, HTML5, CSS" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png" height="48px" align="center">| null | <a href="https://github.com/edmarpires9/LojaDigital" rel="nofollow"><em>Loja Digital</em></a>   | Este projeto ainda está em construção, paciência  |
-| <img title="Powerbuilder" src="https://www.appeon.com/sites/default/files/2022-07/home/PowerBuilder.svg" height="48px" align="center"> | <img src="https://raw.githubusercontent.com/edmarpires9/Energisa-TMA/main/data/icon/icon_default.png" height="48px" align="center"> | <a href="https://github.com/edmarpires9/Energisa-TMA" rel="nofollow"><em>Energisa Tempo Médio</em></a>  | Manter a coodernação da Energisa Minas Rio ciente de quais atendimentos estão demorando e quando finalizado o atendimento avisar sobre sua conclusão e qual foi o motivo da demora. O processo é feito automaticamente, e as analises enviadas via WhatsApp conforme as fotos na página oficial do projeto. |
+##
+<h4><li><em>Programas feito por mim. - "Mouse sobre ícone da empresa para saber mais"</em></li></h4>
+<ul></p><img src="https://media.licdn.com/dms/image/C4D0BAQEk6-EWKeqDTQ/company-logo_100_100/0/1630533776321/energisa_logo?e=1710374400&v=beta&t=kn8bm6erJ5oRXr5MwFJ6mYPBBSrlOtgTjgRFma5aMuA" height="20px" align="center"/><strong> Energisa Minas Rio - COD Assistente [desenvolvendo]</strong></ul>
+<ul></p><img src="https://via.placeholder.com/20" height="20px" align="center"><strong> Help Smart - Loja Digital [desenvolvendo]</strong></ul>
+<ul></p><img title="Criado com fins de monitoração o aplicativo foi desenvolvido em Appeon Powerbuilder IDE 2022. O aplicativo conecta ao servidor da Hyndra carregando a tabela em .CSV para uma DataWindow para que assim através dos loops I, J, K combinados com as regras definidas pelo usuário que são armazenadas em CRUD em arquivo .INI devido limitação de não ter banco de dados. Combinando tudo isso verifica quais atendimentos são prioridades e envia para supervisão da Energisa Minas Rio [DEOP / DCMD / Coodernação / Grandes Clientes / Supervisão COS, Supervisão COD] via WhatsApp o andamento dos antendimentos com maior impacto financeiro." src="https://media.licdn.com/dms/image/C4D0BAQEk6-EWKeqDTQ/company-logo_100_100/0/1630533776321/energisa_logo?e=1710374400&v=beta&t=kn8bm6erJ5oRXr5MwFJ6mYPBBSrlOtgTjgRFma5aMuA" height="20px" align="center"/><strong> Energisa Minas Rio - Tempo médio de atendimento [pronto]</strong></ul>
 
 ##
 <h4><li><em>Experiência profissional.</em></li></h4>
-<ul></p><img src="https://media.licdn.com/dms/image/C4D0BAQEk6-EWKeqDTQ/company-logo_100_100/0/1630533776321/energisa_logo?e=1710374400&v=beta&t=kn8bm6erJ5oRXr5MwFJ6mYPBBSrlOtgTjgRFma5aMuA" height="20px" align="center"><strong> Energisa Minas Rio</strong></ul>
-<ul></p><img src="https://cdn.iconscout.com/icon/free/png-256/free-honda-6-202784.png" height="20px" align="center"><strong> Motobella LTDA</strong></ul>
+<ul></p><img src="https://media.licdn.com/dms/image/C4D0BAQEk6-EWKeqDTQ/company-logo_100_100/0/1630533776321/energisa_logo?e=1710374400&v=beta&t=kn8bm6erJ5oRXr5MwFJ6mYPBBSrlOtgTjgRFma5aMuA" height="20px" align="center"/><strong> Energisa Minas Rio</strong></ul>
+<ul></p><img src="https://cdn.iconscout.com/icon/free/png-256/free-honda-6-202784.png" height="20px" align="center"/><strong> Motobella LTDA</strong></ul>
