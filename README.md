@@ -11,7 +11,7 @@
 <li>🪐 A excelência é um hábito.</li>
 <li>🔭 No meu tempo livre tenho desenvolvido apps com carinho, confira meus projetos clicando <a href="https://github.com/edmarpires9?tab=repositories">aqui</a>.</li>
 <!--Estudando essas linguagens:-->
-<h4><li><em>O que eu estudo diariamente.</em></li></h4>
+<h4><li><em>O que eu estudo diariamente React / NodeJS.</em></li></h4>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://www.linkedin.com/in/edmar-chagas-96b380246/)
 
