@@ -5,23 +5,78 @@
 <!--Imagem decorativa:-->
 <img align="right" src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/08ac4f106fb7a1af1860da86eb29ef47129147e5/Imagens/background.svg" style="width: 40%;">
 <!--Biografia-->
-<li>☄️ Eu sou um estudante de Engenharia de Software. 4° Período.</li>
-<li>🌙 Formado na Terceira turma do EnergisaTech.</li>
-<li>🌌 Estou atualmente trabalhando no <a href="https://www.energisa.com.br/">Grupo Energisa</a>.</li>
+<li>☄️ Eu sou um estudante de Engenharia de Software. 5° Período.</li>
+<li>🌙 Procurando emprego. <strong>#OpenToWork.</strong></li>
+<li>🌌 Nada é impossível para aquele que persiste. <em>Alexandre, o Grande 356 a.C</em></li>
 <li>🪐 A excelência é um hábito.</li>
 <li>🔭 No meu tempo livre tenho desenvolvido apps com carinho, confira meus projetos clicando <a href="https://github.com/edmarpires9?tab=repositories">aqui</a>.</li>
-<!--Estudando essas linguagens:-->
-<h4><li><em>O que eu estudo diariamente React / NodeJS.</em></li></h4>
+<br>
+<details>
+<summary><strong>☕Pegue um café, e conheça mais sobre mim clicando aqui:</strong></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://www.linkedin.com/in/edmar-chagas-96b380246/)
+  ### Edmar Chagas Pires
+  `Readme.md`
+```javascript
+/*Pessoas para pedir referências sobre mim*/
+var contatos = "
+Rodrigo Vilela - Instrutor de TI do SENAI
+(32) 9-8875 2027
+Gabriel Lage - Analista Suporte TI - Coordenação de Monitoração - gabriel.lage@energisa.com.br
+(32) 9884 8940
+Thadeu Triani - Analista de Teste - thadeu.viana@energisa.com.br
+(32) 8444 1286
+André Campos - Analista de Contratação de Energia - andre.campos@energisa.com.br
+(32) 9999 4051";
+```
+- [ ] 📚 Estácio Graduação, Engenharia de Software (5/8) (abril de 2022 - abril de 2026).
+- [x] 💻 EnergisaTech - Powerbuilder
+- [x] 💻 EnergisaTech - SQL
+- [x] 💻 EnergisaTech - PowerBI
+- [x] 💻 DIO_ - Bootcamp C#
+- [x] ⚡ SENAI - Eletrotécnica
+- [x] 🛵 CNH A
+- [x] 🚙 CNH B
+- [x] 🏍️ Moto própria
+- [x] 🚜 Carro próprio
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmarpires9&hide_progress=true&layout=compact&card_width=100%&theme=transparent&card&custom_title=edmarpires9🧙‍♂️🎇)
+Diagrama em grafo da minha carreira profissional:
+
+```mermaid
+graph TD;
+  Motobella --> Loja
+  Motobella --> CNH_A
+  CNH_A --> Moto_própria
+  Loja --> SENAI_Eletrotécnica
+  SENAI_Eletrotécnica --> Energisa_Estágio
+  Energisa_Estágio --> Energisa_Assistente
+  Energisa_Assistente --> Energisa_Técnico_I
+  Energisa_Técnico_I --> Powerbuilder
+  Energisa_Técnico_I --> SQL
+  Energisa_Técnico_I --> PowerBI
+  Energisa_Técnico_I --> C#
+  Energisa_Técnico_I --> Engenharia_Software
+  Energisa_Assistente --> Energisa_Técnico_II
+  Energisa_Técnico_II --> CNH_B
+  Energisa_Técnico_II --> Carro_próprio
+```
+
+
+</details>
+
+
+
 
 ##
-<h4><li><em>Programas feito por mim. - "Mouse sobre ícone da empresa para saber mais"</em></li></h4>
-<ul></p><img src="https://media.licdn.com/dms/image/C4D0BAQEk6-EWKeqDTQ/company-logo_100_100/0/1630533776321/energisa_logo?e=1710374400&v=beta&t=kn8bm6erJ5oRXr5MwFJ6mYPBBSrlOtgTjgRFma5aMuA" height="20px" align="center"/><strong> Energisa Minas Rio - COD Assistente [desenvolvendo]</strong></ul>
-<ul></p><img src="https://via.placeholder.com/20" height="20px" align="center"><strong> Help Smart - Loja Digital [desenvolvendo]</strong></ul>
-<ul></p><img title="Criado com fins de monitoração o aplicativo foi desenvolvido em Appeon Powerbuilder IDE 2022. O aplicativo conecta ao servidor da Hyndra carregando a tabela em .CSV para uma DataWindow para que assim através dos loops I, J, K combinados com as regras definidas pelo usuário que são armazenadas em CRUD em arquivo .INI devido limitação de não ter banco de dados. Combinando tudo isso verifica quais atendimentos são prioridades e envia para supervisão da Energisa Minas Rio [DEOP / DCMD / Coodernação / Grandes Clientes / Supervisão COS, Supervisão COD] via WhatsApp o andamento dos antendimentos com maior impacto financeiro." src="https://media.licdn.com/dms/image/C4D0BAQEk6-EWKeqDTQ/company-logo_100_100/0/1630533776321/energisa_logo?e=1710374400&v=beta&t=kn8bm6erJ5oRXr5MwFJ6mYPBBSrlOtgTjgRFma5aMuA" height="20px" align="center"/><strong> Energisa Minas Rio - Tempo médio de atendimento [pronto]</strong></ul>
+<h4><li><em>Minhas criações em open source</em></li></h4>
+<ul>
+  <li><img title="Energisa Minas Rio" src="https://media.licdn.com/dms/image/C4D0BAQEk6-EWKeqDTQ/company-logo_100_100/0/1630533776321/energisa_logo?e=1710374400&v=beta&t=kn8bm6erJ5oRXr5MwFJ6mYPBBSrlOtgTjgRFma5aMuA" height="20px" align="center"/><strong> EMR: Tempo Médio de Atendimento</strong></li>  
+  
+`Powerbuilder` `WhatsAppBot` `Windows`
+</ul>
+
+
+
+
 
 ##
 <h4><li><em>Experiência profissional.</em></li></h4>
