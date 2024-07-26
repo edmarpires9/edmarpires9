@@ -18,11 +18,6 @@
 
 `Envio de notificações sobre TMA por WhatsApp`
 </ul>
-<ul>
-  <li><img title="Projeto pessoal / Treino" src="https://via.placeholder.com/20" height="20px" align="center"/><strong> Projeto Pessoal: Minha chamada</strong></li>  
-
-`Realizar chamadas sem chip ou conexão com a internet para viagens e lugares remotos.`
-</ul>
 <!--Experiência profissional-->
 <h4><li><em>Experiência profissional.</em></li></h4>
 <ul></p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZoMY8mm6PsnRmbUxlJb9xfvt1ZLzXp5qZwKxGHhchxA&s" height="20px" align="center"/><strong> Energisa Minas Rio</strong></ul>
