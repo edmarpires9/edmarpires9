@@ -8,6 +8,6 @@
 <ul>
   <li>☄️ Olá, seja bem-vindo ao meu perfil do GitHub! Tenho 26 anos, sou estudante de Engenharia de Software, 6° período. Formatura em Abril/2026.</li>
   <li>🌌 Nada é impossível para aquele que persiste. <em>Alexandre, o Grande 356 a.C</em></li>
-  <li>🔭 Iniciando um novo projeto pessoal <a href="https://github.com/edmarpires9?tab=repositories">veja mais...</a></li>
+  <li>🔭 Iniciando um novo projeto pessoal <a href="https://github.com/edmarpires9/API-RESTful-PHP-and-MySQL">veja mais...</a></li>
   <li>💘 NestJS, back-end developer.</li>
 </ul>
