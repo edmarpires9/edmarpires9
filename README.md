@@ -3,6 +3,7 @@
 # *Edmar Chagas Pires*
 <a href='https://web.whatsapp.com/send/?phone=32988351572'><img src='https://static.whatsapp.net/rsrc.php/yA/r/hbGnlm1gXME.svg'></a>
 -  🌌 Cursando Engenharia de Software 7° período
+-  ⚛️ React
 -  🔥 Code Igniter 4
 -  🐘 PHP
 -  🗃️ MySQL
