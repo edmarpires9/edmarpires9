@@ -1,13 +1,10 @@
-<!--Meu nome:-->
-<h3 align="center">Edmar Chagas Pires</h3>
-<!--Link para WhatsappWeb-->
-<h4 align=center ><a href="https://web.whatsapp.com/send/?phone=32988351572" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/whatsapp-icon-2040x2048-8b5th74o.png" height="20px" align="center"><strong> (32) 9-8835 1572</strong></a></h4>
-<!--Imagem decorativa:-->
 <img align="right" src="https://raw.githubusercontent.com/edmarpires9/edmarpires9/08ac4f106fb7a1af1860da86eb29ef47129147e5/Imagens/background.svg" style="width: 40%;">
-<!--Biografia-->
-<ul>
-  <li>☄️ Olá, seja bem-vindo ao meu perfil do GitHub! Tenho 26 anos, sou estudante de Engenharia de Software, 6° período. Formatura em Abril/2026.</li>
-  <li>🌌 Nada é impossível para aquele que persiste. <em>Alexandre, o Grande 356 a.C</em></li>
-  <li>🔭 Iniciando um novo projeto pessoal <a href="https://github.com/edmarpires9/API-RESTful-PHP-and-MySQL">veja mais...</a></li>
-  <li>💘 NestJS, back-end developer.</li>
-</ul>
+
+# *Edmar Chagas Pires*
+<a href='https://web.whatsapp.com/send/?phone=32988351572'><img src='https://static.whatsapp.net/rsrc.php/yA/r/hbGnlm1gXME.svg'></a>
+-  🌌 Cursando Engenharia de Software 7° período
+-  🔥 Code Igniter 4
+-  🐘 PHP
+-  🗃️ MySQL
+-  🏡 Trabalho na empresa High Bank Infra
+-  🪴 Desenvolvedor Back-End
